@@ -1,0 +1,9 @@
+Audacity is a free audio editor and recorder
+It was created in 1999 by Dominic Mazzoni and Roger Dannenberg at Carnegie Mellon University 
+It was initially built as a basic audio analyzer for college research 
+It has tools for recording audio, trimming tracks, removing background noise, and applying effects 
+It is free under the GNU General Public License 
+Works on Windows, macOS, and Linux 
+It is a popular open-source audio tool for podcasting and quick voiceovers
+
+https://www.audacityteam.org/

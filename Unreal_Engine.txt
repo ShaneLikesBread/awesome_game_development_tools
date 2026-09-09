@@ -1,0 +1,10 @@
+Unreal Engine is an advanced 3D game engine
+It was created in 1998 by Tim Sweeney and Epic Games 
+It was initially developed as the base for the 1998 first-person shooter game Unreal 
+It includes tools for high-end rendering, physics simulations, visual scripting (Blueprints), and world building 
+It is free to use, only charging a 5% royalty fee only after a game earns over $1 million 
+Works on Windows, macOS, and Linux
+It is also used beyond games, like virtual production sets in Hollywood films and TV shows like The Mandalorian 
+It includes built-in access to the Megascans library, giving tens of thousands of photorealistic 3D assets for free to users
+
+https://www.unrealengine.com/

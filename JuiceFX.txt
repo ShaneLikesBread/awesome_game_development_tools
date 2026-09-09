@@ -1,0 +1,10 @@
+JuiceFX is an application designed to add visual effects to 2D game sprites and animations 
+It was created in 2019 by Codeer Studio
+It was initially created to help solo indie developers make flat 2D game assets in a short amount of time
+It includes tools to manage sprite wobbling, squash-and-stretch, fire, smoke, and outline impacts 
+It has a one-time purchase software license 
+Works on Windows, macOS, and Linux 
+It's a favorite utility among game jam participants who need fast, polished visual polish 
+It includes dozens of customizable effects that can be exported directly as spritesheets or GIFs
+
+https://codemanu.itch.io/juicefx
