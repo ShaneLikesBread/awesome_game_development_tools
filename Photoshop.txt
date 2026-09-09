@@ -1,8 +1,0 @@
-Photoshop is a photo editing, digital art, and graphic design software program 
-It was created in 1987 by Thomas and John Knoll and acquired by Adobe in 1988 
-Initially created as a tool to show grayscale images on monochrome screens 
-Has tools for mostly photo manipulation, as well as digital painting, layer blending, vector drawing, and generative AI features 
-Subscription-only software through Adobe Creative Cloud 
-Works on Windows, macOS, and iPadOS 
-"Photoshop" became a verb for manipulating images 
-It supports a lot of file formats, brush types, and colors
