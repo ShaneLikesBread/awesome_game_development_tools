@@ -1,0 +1,8 @@
+Godot is a free game engine designed for 2D and 3D game development 
+It was created in 2007 by Juan Linietsky and Ariel Manzur and released publicly in 2014 
+Started as being used by several Latin American game companies 
+Features a node-based scene system, code editors, and tools for both 2D tilemaps and 3D lighting 
+It operates under the  MIT license, games made with it owe zero royalties forever 
+Works on Windows, macOS, Linux, and inside web browsers 
+Used a lot for indie developers looking for an easy alternative to other engines 
+It has its own custom scripting language (GDScript) and also has support for C# and C++

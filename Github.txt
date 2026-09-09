@@ -1,0 +1,7 @@
+GitHub is a cloud-based platform used by developers to store, track, and manage code using Git version control 
+It was created in 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. Hyett, and Scott Chacon (and acquired by Microsoft in 2018) 
+It was initially launched as a simple site for sharing open-source Ruby code over weekend side projects 
+It gives tools for code hosting, pull requests, issue tracking, CI/CD automation, and peer code reviews 
+It offers free hosting for public and private repositories, while also having paid tired access 
+Works from any web browser, and desktop applications for Windows and macOS 
+It has over 100 million active developer accounts and hundreds of millions of code repositories
