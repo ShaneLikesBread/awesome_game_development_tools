@@ -1,8 +1,0 @@
-Blender is a free 3D creation software mostly used for modeling and animation
-It was released in 1994 by Dutch animation studio NeoGeo and is now maintained by the Blender Foundation 
-It started as an in-house tool before being saved from bankruptcy
-It includes features for 3D modeling, sculpting, 2D animation, and video editing 
-It is a free software with no subscriptions or feature locks 
-Works on Windows, macOS, and Linux 
-It has been used to create scenes and effects in major feature films, indie games, and short films 
-It has multiple render engines
