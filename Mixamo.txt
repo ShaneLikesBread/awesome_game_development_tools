@@ -1,8 +1,0 @@
-Mixamo is a web-based 3D platform used to rig and animate 3D humanoid characters 
-It was founded in 2008 by Stefano Corazza and Miro Kirov at Stanford University and acquired by Adobe in 2015 
-It was initially created to sell individual motion-capture animations to game developers online 
-It features an automatic character rigger and a library of thousands of pre-made motion-capture animations 
-It is free to use with an Adobe account 
-Works on any modern web browser 
-It reduced the barrier to entry for solo developers who don't know how to manually rig or animate 3D models 
-It provides animations in FBX and Collada formats compatible with every major 3D engine and suite
