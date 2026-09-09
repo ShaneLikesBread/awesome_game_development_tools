@@ -1,8 +1,0 @@
-VS Code (Visual Studio Code) is a source code editor 
-It was created in 2015 by Microsoft 
-It was initially developed as a cross-platform alternative to integrated development environments (IDEs) 
-It features built-in Git controls, code completion (IntelliSense), syntax highlighting, and debugging tools 
-It is free to use
-Works on Windows, macOS, and Linux 
-Currently the most popular code editing environment for software developers 
-Has a library of 50,000+ extensions to support almost every programming language
